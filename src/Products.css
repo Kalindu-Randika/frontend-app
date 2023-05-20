@@ -1,0 +1,13 @@
+ul { 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style: none;
+}
+
+.cart.hover{
+    box-shadow: 10px 10px 20px #ccc;
+}
